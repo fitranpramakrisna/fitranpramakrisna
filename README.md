@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fitranpramakrisna
-- 👀 I’m interested in Data Science, Machine Learning, and Software Development
+- 👀 I’m interested in Data Science, Machine Learning
 - 🌱 I’m currently learning Software Development
 - 📫 How to reach me https://www.linkedin.com/in/fitran-dwi-pramakrisna-490371170/
 
